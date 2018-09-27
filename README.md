@@ -6,4 +6,7 @@
 "# 3nd commit line" 
 
 
-"Branch A - Code"
+"Branch A - Code
+
+	more code in branch A
+"
